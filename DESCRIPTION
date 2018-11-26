@@ -7,7 +7,7 @@ Author: Luis Jesus Lozano Duran, Nery Sofia Huerta-Pacheco, Jose Guillermo Herna
 Maintainer: Nery Sofia Huerta-Pacheco <nehuerta@uv.mx>
 Depends: R(>= 3.0.0), utils
 Description: Multivariante Text Mining Module (MTMM) is a user – oriented interface that integrates the functions from the exploratory analysis method in a text. This interface covers descriptive statistics that frequency tables and plot (Word cloud and Zipf's law), Analysis of similarity, Correspondence Factorial Analysis (AFC) and Reinert. 
-Imports: tcltk, gWidgets, FactoClass, pander, zipfR, wordcloud, tau, FactoMineR, network, igraph, tm, gWidgetstcltk, RColorBrewer
+Imports: tcltk, gWidgets, FactoClass, pander, zipfR, wordcloud, tau, FactoMineR, network, igraph, tm, gWidgetstcltk, RColorBrewer, ade4
 License: GPL (>= 2)
 URL: http://www.uv.mx/personal/nehuerta/mtmm
 Encoding: UTF-8
