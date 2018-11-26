@@ -3,7 +3,7 @@ Type: Package
 Title: Multivariate Text Mining Module 
 Version: 0.1.0
 Date: 2018-11-25
-Author: Luis Jesus Lozano Duran, Nery Sofia Huerta-Pacheco, Jose Guillermo Hernandez Calderon, Sergio Hernandez Gonzalez
+Author: Luis Jesus Lozano-Duran, Nery Sofia Huerta-Pacheco, Jose Guillermo Hernandez-Calderon, Sergio Hernandez-Gonzalez
 Maintainer: Nery Sofia Huerta-Pacheco <nehuerta@uv.mx>
 Depends: R(>= 3.0.0), utils
 Description: Multivariante Text Mining Module (MTMM) is a user – oriented interface that integrates the functions from the exploratory analysis method in a text. This interface covers descriptive statistics that frequency tables and plot (Word cloud and Zipf's law), Analysis of similarity, Correspondence Factorial Analysis (AFC) and Reinert. 
