@@ -29,5 +29,5 @@ MTMM()
 
 }
 \author{
-Luis Jesus Lozano Duran, Nery Sofia Huerta-Pacheco, Jose Guillermo Hernandez Calderon, Sergio Hernandez Gonzalez
+Luis Jesus Lozano-Duran, Nery Sofia Huerta-Pacheco, Jose Guillermo Hernandez-Calderon, Sergio Hernandez-Gonzalez
 }
