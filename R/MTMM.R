@@ -37,6 +37,7 @@
 #' @import network
 #' @import FactoClass
 #' @import RColorBrewer
+#' @import ade4
 
 MTMM<-function(){
 
