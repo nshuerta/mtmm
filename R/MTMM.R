@@ -36,6 +36,7 @@
 #' @import FactoMineR
 #' @import network
 #' @import FactoClass
+#' @import RColorBrewer
 
 MTMM<-function(){
 
